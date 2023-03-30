@@ -1,4 +1,4 @@
-*.POM inguist-detectable=true
+*.pom inguist-detectable=true
 *.java linguist-detectable=false
 *.pl linguist-detectable=false
 *.js linguist-detectable=false
