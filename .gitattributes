@@ -1,6 +1,6 @@
+*.POM inguist-detectable=true
 *.java linguist-detectable=false
 *.pl linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.htm inguist-detectable=false
-*.POM inguist-detectable=true
