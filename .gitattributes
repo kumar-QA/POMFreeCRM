@@ -1,5 +1,5 @@
 *.pom inguist-detectable=true
-*.java linguist-detectable=false
+*.java linguist-detectable=true
 *.pl linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
